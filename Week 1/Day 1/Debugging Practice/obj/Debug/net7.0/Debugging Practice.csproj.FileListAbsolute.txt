@@ -1,0 +1,15 @@
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.csproj.AssemblyReference.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.AssemblyInfoInputs.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.AssemblyInfo.cs
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.csproj.CoreCompileInputs.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\bin\Debug\net7.0\Debugging Practice.exe
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\bin\Debug\net7.0\Debugging Practice.deps.json
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\bin\Debug\net7.0\Debugging Practice.runtimeconfig.json
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\bin\Debug\net7.0\Debugging Practice.dll
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\bin\Debug\net7.0\Debugging Practice.pdb
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.dll
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\refint\Debugging Practice.dll
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.pdb
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\Debugging Practice.genruntimeconfig.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Debugging Practice\obj\Debug\net7.0\ref\Debugging Practice.dll
