@@ -1,0 +1,15 @@
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.csproj.AssemblyReference.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.AssemblyInfoInputs.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.AssemblyInfo.cs
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.csproj.CoreCompileInputs.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\bin\Debug\net7.0\Collections Practice.exe
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\bin\Debug\net7.0\Collections Practice.deps.json
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\bin\Debug\net7.0\Collections Practice.runtimeconfig.json
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\bin\Debug\net7.0\Collections Practice.dll
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\bin\Debug\net7.0\Collections Practice.pdb
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.dll
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\refint\Collections Practice.dll
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.pdb
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\Collections Practice.genruntimeconfig.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 1\Collections Practice\obj\Debug\net7.0\ref\Collections Practice.dll
