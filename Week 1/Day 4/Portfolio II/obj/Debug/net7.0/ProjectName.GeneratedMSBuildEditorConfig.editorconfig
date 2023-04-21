@@ -1,0 +1,29 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectName
+build_property.RootNamespace = ProjectName
+build_property.ProjectDir = C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 4\Portfolio II\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 4\Portfolio II
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/octanet/Downloads/C-Sharph-.NET/Week 1/Day 4/Portfolio II/Views/Portfolio/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/octanet/Downloads/C-Sharph-.NET/Week 1/Day 4/Portfolio II/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/octanet/Downloads/C-Sharph-.NET/Week 1/Day 4/Portfolio II/Views/Portfolio/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFByb2plY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

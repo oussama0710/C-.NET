@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "eXPKaDdhoXvuL4YzFGDPJOIuUKndBTg515KyPqd1dSM=",
+  "Source": "ProjectName",
+  "BasePath": "_content/ProjectName",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectName\\wwwroot",
+      "Source": "ProjectName",
+      "ContentRoot": "C:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\wwwroot\\",
+      "BasePath": "_content/ProjectName",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\wwwroot\\css\\style.css",
+      "SourceId": "ProjectName",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\wwwroot\\",
+      "BasePath": "_content/ProjectName",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
