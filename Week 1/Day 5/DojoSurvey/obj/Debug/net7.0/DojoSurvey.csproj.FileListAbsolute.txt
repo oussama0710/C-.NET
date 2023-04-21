@@ -24,3 +24,5 @@ C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 5\DojoSurvey\obj\Debug\net7.
 C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 5\DojoSurvey\obj\Debug\net7.0\DojoSurvey.pdb
 C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 5\DojoSurvey\obj\Debug\net7.0\DojoSurvey.genruntimeconfig.cache
 C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 5\DojoSurvey\obj\Debug\net7.0\ref\DojoSurvey.dll
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 5\DojoSurvey\obj\Debug\net7.0\DojoSurvey.RazorAssemblyInfo.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 1\Day 5\DojoSurvey\obj\Debug\net7.0\DojoSurvey.RazorAssemblyInfo.cs
