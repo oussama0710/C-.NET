@@ -1,0 +1,15 @@
+@model Survey
+    <table>
+  <tr>
+    <th>Your Name</th>
+    <th>Dojo Location</th>
+    <th>Favorite Language</th>
+    <th>Comment</th>
+  </tr>
+  <tr>
+    <td>@ViewBag.yourSurvey.Name</td>
+    <td>@ViewBag.yourSurvey.DojoLocation</td>
+    <td>@ViewBag.yourSurvey.FavouriteLanguage</td>
+    <td>@ViewBag.yourSurvey.Comment</td>
+  </tr>
+</table>
