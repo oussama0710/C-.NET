@@ -20,8 +20,15 @@ public class HomeController : Controller
     [HttpPost("survey")]
     public IActionResult Submission(Survey yourSurvey)
     {
+        if(ModelState.IsValid)
+        {
         ViewBag.yourSurvey = yourSurvey;
         return View("Result");
+        }
+        else
+        {
+            return View("Index");
+        }
     }
 
 
