@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Random Passcode #@ViewBag.IntRand</h1>
+    <form action="/" method="post">
+        <input type="text" value=@ViewBag.FinalString>
+        <input type="submit" value="Generate">
+    </form>
+</div>
