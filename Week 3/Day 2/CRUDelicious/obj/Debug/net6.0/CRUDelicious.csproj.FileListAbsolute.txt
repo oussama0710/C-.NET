@@ -1,0 +1,8 @@
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.csproj.AssemblyReference.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.AssemblyInfoInputs.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.AssemblyInfo.cs
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.csproj.CoreCompileInputs.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.RazorAssemblyInfo.cache
+C:\Users\octanet\Downloads\C-Sharph-.NET\Week 3\Day 2\CRUDelicious\obj\Debug\net6.0\CRUDelicious.RazorAssemblyInfo.cs
