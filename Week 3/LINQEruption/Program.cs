@@ -19,13 +19,29 @@
 /* IEnumerable<Eruption> stratovolcanoEruptions = eruptions.Where(c => c.Type == "Stratovolcano");
 PrintEach(stratovolcanoEruptions, "Stratovolcano eruptions."); */
 
-IEnumerable<Eruption> ChileEruptions = eruptions.Where(c => c.Location == "Chile");
-PrintEach(ChileEruptions, "Chile eruptions.");
+// IEnumerable<Eruption> ChileEruptions = eruptions.Where(c => c.Location == "Chile");
+// PrintEach(ChileEruptions, "Chile eruptions.");
 
-IEnumerable<Eruption> ChileEruptions = eruptions.Where(c => c.Location == "Chile");
-PrintEach(ChileEruptions, "Chile eruptions.");
+// IEnumerable<Eruption> HawaiiEruptions = eruptions.Where(c => c.Location == "Hawaiian Is");
+// PrintEach(HawaiiEruptions, "Hawaii eruptions.");
 
+// IEnumerable<Eruption> NewZealandEruptions = eruptions.Where(c => c.Location == "New Zealand" && c.Year > 1900);
+// PrintEach(NewZealandEruptions, "New Zealand eruptions.");
 
+// IEnumerable<Eruption> VolcanoEruptions = eruptions.Where(c => c.ElevationInMeters > 2000);
+// PrintEach(VolcanoEruptions, "Volcano eruptions.");
+
+// IEnumerable<Eruption> VolcanoEruptions = eruptions.Where(c => c.Volcano.StartsWith("L") );
+// PrintEach(VolcanoEruptions, "Volcano eruptions.");
+
+// var MaxEruptions = eruptions.Max(c => c.ElevationInMeters);
+// Console.WriteLine(MaxEruptions);
+
+// IEnumerable<Eruption> VolcanoEruptions = eruptions.Where(c => c.ElevationInMeters == MaxEruptions );
+// PrintEach(VolcanoEruptions, "Volcano eruptions.");
+
+IEnumerable<Eruption> VolcanoEruptions = eruptions.OrderBy(c => c.Volcano );
+PrintEach(VolcanoEruptions, "Volcano eruptions.");
 
 // Execute Assignment Tasks here!
  
