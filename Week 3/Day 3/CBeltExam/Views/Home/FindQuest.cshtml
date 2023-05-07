@@ -1,0 +1,23 @@
+<div class="row text-center">
+    <div class="col-6">
+        <h1>Available Quests</h1>
+@foreach (Quest quest in ViewBag.AvailableQuests)
+{
+<div class="card">
+  <div class="card-header" style="display: flex; justify-content: space-between;align-items: center;">
+    <h4>@quest.Title</h4>
+    <p>@quest.Reward gold</p>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">@quest.Description</h5>
+    <p class="card-text">People on quest: @quest.PeopleOnQuest</p>
+    <form asp-action="MissionCreate" asp-controller="Home" method="post">
+        <input type="submit" class="btn btn-success" value="Join">
+        <input type="hidden" value="@quest.QuestId" name="QuestId" >
+    </form>
+  </div>
+</div>
+
+}
+</div>
+</div>

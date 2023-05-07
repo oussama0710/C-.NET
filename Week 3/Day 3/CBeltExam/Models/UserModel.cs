@@ -40,4 +40,8 @@ public class User
 
     // ----------------------------Updated At-------------------------------
     public DateTime UpdatedAt { get; set; } = DateTime.Now;
+    // * User Have Quests 
+    public List<Quest> MyQuests {get;set;} = new List<Quest>();
+    // * User Have Missions
+    public List<Mission> MyMissions {get;set;} = new List<Mission>();
 }

@@ -1,0 +1,81 @@
+{
+  "SerializedFilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\CBeltExam.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "CBeltExam",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Home\\_Login.cshtml",
+      "TargetPath": "Views\\Home\\_Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Home\\_LeaveMission.cshtml",
+      "TargetPath": "Views\\Home\\_LeaveMission.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Home\\Dashboard.cshtml",
+      "TargetPath": "Views\\Home\\Dashboard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Home\\NewQuest.cshtml",
+      "TargetPath": "Views\\Home\\NewQuest.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Home\\FindQuest.cshtml",
+      "TargetPath": "Views\\Home\\FindQuest.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 3\\CBeltExam\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}

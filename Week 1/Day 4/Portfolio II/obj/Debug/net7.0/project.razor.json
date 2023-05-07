@@ -1,0 +1,36 @@
+{
+  "SerializedFilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\ProjectName.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "ProjectName",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\Views\\Portfolio\\Index.cshtml",
+      "TargetPath": "Views\\Portfolio\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\Views\\Portfolio\\Project.cshtml",
+      "TargetPath": "Views\\Portfolio\\Project.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 1\\Day 4\\Portfolio II\\Views\\Portfolio\\Contact.cshtml",
+      "TargetPath": "Views\\Portfolio\\Contact.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}

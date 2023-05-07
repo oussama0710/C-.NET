@@ -1,0 +1,52 @@
+@model Mission
+<a href="/logout" class="btn btn-danger">Logout</a>
+<br>
+<div class="row text-center">
+    <div class="col-6">
+        <h1>Your Posted Quests</h1>
+@foreach (Quest quest in ViewBag.PostedQuests)
+{
+<div class="card">
+  <div class="card-header" style="display: flex; justify-content: space-between;align-items: center;">
+    <h4>@quest.Title</h4>
+    <p>@quest.Reward gold</p>
+  </div>
+  <div class="card-body" style="display: flex; justify-content: space-between;align-items: center;">
+    <div>
+    <h5 class="card-title">@quest.Description</h5>
+    <p class="card-text">People on quest: </p>
+    </div>
+    
+  </div>
+</div>
+
+}
+</div>
+<div class="col-6">
+    <h1>Your Taken Quests</h1>
+    @foreach (Quest quest in ViewBag.JoinedQuests)
+{
+<div class="card">
+  <div class="card-header" style="display: flex; justify-content: space-between;align-items: center;">
+    <h4>@quest.Title</h4>
+    <p>@quest.Reward gold</p>
+  </div>
+  <div class="card-body" >
+    <h5 class="card-title">@quest.Description</h5>
+    <p class="card-text">People on quest: </p>
+      <form asp-action="LeaveMission" asp-controller="Home" method="post">
+        <input asp-for="QuestId" type="hidden" value="@quest.QuestId" class="form-control">
+    <input type="submit" value="Leave" class="btn btn-danger">
+</form>
+    <form asp-action="CompleteMission" asp-controller="Home" method="post">
+            <input asp-for="QuestId" type="hidden" value="@quest.QuestId" class="form-control">
+            <input type="submit" value="complete" class="btn btn-success">
+            
+    </form>
+  </div>
+</div>
+
+}
+
+</div>
+</div>

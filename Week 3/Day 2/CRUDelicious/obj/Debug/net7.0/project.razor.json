@@ -1,0 +1,61 @@
+{
+  "SerializedFilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\CRUDelicious.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "CRUDelicious",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\Home\\DishShow.cshtml",
+      "TargetPath": "Views\\Home\\DishShow.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 3\\Day 2\\CRUDelicious\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}

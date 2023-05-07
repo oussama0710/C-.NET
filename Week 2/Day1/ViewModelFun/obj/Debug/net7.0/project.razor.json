@@ -1,0 +1,71 @@
+{
+  "SerializedFilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\ViewModelFun.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "ViewModelFun",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Home\\Numbers.cshtml",
+      "TargetPath": "Views\\Home\\Numbers.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Home\\User.cshtml",
+      "TargetPath": "Views\\Home\\User.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Home\\Users.cshtml",
+      "TargetPath": "Views\\Home\\Users.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\octanet\\Downloads\\C-Sharph-.NET\\Week 2\\Day1\\ViewModelFun\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
